@@ -33,3 +33,5 @@ console.log(tag` the correct answer is ${a+b} not ${a*b}`);
 //the example above inputs two arrays --> 1 for the strings and other to template literal values
 // [" the correct answer is ", " not ", ""] values of strings
 // [14, 40] ...values of array
+
+
